@@ -19,7 +19,7 @@ export const projects: Project[] = [
   {
     title: "AI Image Detector webapp",
     summary:
-      "A duo project made with a friend, I worked onthe frontend, creating a website where you put in an image and it tells you whether it was made with AI. Currently a Work In Progress.",
+      "A duo project made with a friend, I worked on the frontend, creating a website where you put in an image and it tells you whether it was made with AI. Currently a Work In Progress.",
     tags: ["JavaScript", "React", "Tailwind"],
     links: [],
   },
