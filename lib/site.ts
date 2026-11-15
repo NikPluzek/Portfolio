@@ -5,6 +5,6 @@ export const site = {
     "Portfolio of Nikodem Pluzek: software engineer and game developer. Projects in C++, Unity and the web.",
   github: "https://github.com/NikPluzek",
   linkedin: "https://www.linkedin.com/in/nik-pluzek-92a1b1296/", 
-  //email: "npluzek@gmail.com", 
+  email: "", 
   cv: "/cv.pdf", 
 };
