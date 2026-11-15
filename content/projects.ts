@@ -8,13 +8,7 @@ export type Project = {
 };
 
 export const projects: Project[] = [
-  {
-    title: "Dashtro",
-    summary:
-      "A solo-built Unity action game. A dash that resets on every kill, a boss driven by a custom state machine, an in-game shop and moody dark lighting, with all the UI built in Unity.",
-    tags: ["Unity", "C#", "Game UI"],
-    links: [], // TODO: add a playable build or video link
-  },
+  
   {
     title: "Chess Engine",
     summary:
@@ -28,6 +22,13 @@ export const projects: Project[] = [
       "A duo project made with a friend, I worked onthe frontend, creating a website where you put in an image and it tells you whether it was made with AI. Currently a Work In Progress.",
     tags: ["JavaScript", "React", "Tailwind"],
     links: [],
+  },
+  {
+    title: "Dashtro",
+    summary:
+      "A solo-built Unity action game. A dash that resets on every kill, a boss driven by a custom state machine, an in-game shop and moody dark lighting, with all the UI built in Unity.",
+    tags: ["Unity", "C#", "Game UI"],
+    links: [], // TODO: add a playable build or video link
   },
   
 ];
